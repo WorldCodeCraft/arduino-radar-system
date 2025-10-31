@@ -70,8 +70,6 @@ Bu kütüphaneler **Arduino IDE → Tools → Manage Libraries** menüsünden ko
 
 ## 📁 Dosya İçeriği  
 - `radar.ino` → Ana proje dosyası  
-- `wiring_diagram.png` → Devre bağlantı şeması  
-- `project_photo.jpg` → Çalışan sistemin görüntüsü  
 
 ---
 
