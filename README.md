@@ -57,7 +57,8 @@ Arduino IDE üzerinden **Library Manager** ile yüklenebilir.
 ---
 
 ## 🔹 Örnek Görseller
-![Arduino Radar](<img width="1097" height="514" alt="image" src="https://i.hizliresim.com/4aamx7l.png" />)
+![Arduino Radar]<img width="1097" height="514" alt="Ekran görüntüsü 2025-10-11 193046" src="https://github.com/user-attachments/assets/a30cadef-e719-4064-b46b-564498a21f8c" />
+
 
 ---
 
