@@ -63,8 +63,8 @@ Bu kütüphaneler **Arduino IDE → Tools → Manage Libraries** menüsünden ko
 ---
 
 ## 👨‍💻 Tasarım & Katkıda Bulunan  
-**Proje Tasarımcısı & Geliştirici:** Batuhan 
-**Katkılar:** Donanım tasarımı, sensör entegrasyonu, görselleştirme kodlaması ve test senaryoları.  
+**Proje Tasarımcısı & Geliştirici:** Batuhan  
+**Katkılar:** Donanım tasarımı, sensör entegrasyonu, görselleştirme kodlaması ve test senaryoları.    
 
 ---
 
