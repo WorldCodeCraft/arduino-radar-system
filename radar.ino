@@ -1,7 +1,7 @@
-#include <Servo.h>
-#include <Wire.h>
-#include <Adafruit_GFX.h>
-#include <Adafruit_SSD1306.h>
+#include <Servo.h>  //MOTORUN AÇISINI AYARLAYABİLMEK İÇİN
+#include <Wire.h>   //I2C OLED HABERLEŞMESİ İÇİN
+#include <Adafruit_GFX.h>  // EKRANA ÇİZİM YAPABİLMEK İÇİN
+#include <Adafruit_SSD1306.h>  // EKRANA YAZI İÇİN
 /////////////////////////////////////////////////
 //AYARLAR ===
 const int AÇI_MIN = 0; // servo minimum pozisyonu derece cinsinden
