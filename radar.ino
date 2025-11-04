@@ -83,7 +83,7 @@ void cizim(int aci, int mesafe) {
   int maxR = 60; // radar sembol yarıçapı
 
   // Radar halkaları
-  for (int r = 15; r <= maxR; r += 15) {        //15 pixel aralıklı 4 halka 60 120 180 240
+  for (int r = 15; r <= maxR; r += 15) {        //15 pixel aralıklı 4 halka 
     display.drawCircle(cx, cy, r, ekran_renk);
   }
 
